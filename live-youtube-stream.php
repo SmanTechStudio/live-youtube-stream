@@ -4,6 +4,8 @@ Plugin Name: Live YouTube Stream
 Description: Display live YouTube streams from a specified channel with a custom message and blank player when no stream is active. Automatically removes the player when the live ends.
 Version: 1.7
 Author: Your Name
+GitHub Plugin URI: https://github.com/SmanTechStudio/live-youtube-stream
+GitHub Branch: main
 */
 
 if (!defined('ABSPATH')) {
